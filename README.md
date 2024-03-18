@@ -40,7 +40,7 @@ Execute the program
 <th bgcolor="yellow">8-10</th>
 <th bgcolor="cyan">EN</th>
 <th bgcolor="cyan">EN</th>
-<th bgcolor="cyan">PY</th>
+<th bgcolor="cyan">FWAD</th>
 <th bgcolor="cyan">FREE SLOT</th>
 <th bgcolor="cyan">FREE SLOT</th>
 </tr>
