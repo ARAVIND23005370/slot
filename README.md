@@ -116,7 +116,8 @@ Execute the program
 ```
 
 # OUPUT
-![Screenshot 2024-03-18 085328](https://github.com/ARAVIND23005370/slot/assets/148514836/170a46f5-68c8-4a8c-a22d-887fb09543a1)
+![Screenshot 2024-03-18 091537](https://github.com/ARAVIND23005370/slot/assets/148514836/2457691c-b3f8-4a70-8983-9d5c483d9a64)
+
 
 # Result :
 The code run successfully without any error.
