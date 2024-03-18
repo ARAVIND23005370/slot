@@ -116,7 +116,8 @@ Execute the program
 ```
 
 # OUPUT
-![Screenshot 2024-03-18 091537](https://github.com/ARAVIND23005370/slot/assets/148514836/2457691c-b3f8-4a70-8983-9d5c483d9a64)
+![Screenshot 2024-03-18 134048](https://github.com/ARAVIND23005370/slot/assets/148514836/c799b039-9fba-4553-bbd2-4178fefaf43c)
+
 
 
 # Result :
