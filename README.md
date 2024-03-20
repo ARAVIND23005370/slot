@@ -118,6 +118,8 @@ Execute the program
 
 # OUPUT
 ![Screenshot 2024-03-18 213803](https://github.com/ARAVIND23005370/slot/assets/148514836/6945d7f1-2c4c-4030-9c17-b66f95b88856)
+
+
 ![alt text](<Screenshot 2024-03-18 203017.png>)
 
 
