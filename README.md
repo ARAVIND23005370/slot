@@ -1,5 +1,4 @@
 # Ex03 Time Table
-# Experiment_Time_Table
 ## DATE:18-03-2024
 ## AIM
 To Write a html webpage page to display your timetable.
@@ -117,9 +116,8 @@ Execute the program
 </html>
 ```
 
-# SERVER OUPUT
+# OUPUT
 ![Screenshot 2024-03-18 213803](https://github.com/ARAVIND23005370/slot/assets/148514836/6945d7f1-2c4c-4030-9c17-b66f95b88856)
-# CLIENT OUPUT
 ![alt text](<Screenshot 2024-03-18 203017.png>)
 
 
