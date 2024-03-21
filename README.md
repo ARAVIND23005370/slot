@@ -1,6 +1,6 @@
 # Ex03 Time Table
 # TIME TABLE_SLOT
-## DATE:18-03-2024
+# DATE:18-03-2024
 ## AIM
 To Write a html webpage page to display your timetable.
 
