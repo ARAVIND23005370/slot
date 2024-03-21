@@ -1,10 +1,9 @@
-# Ex03 Time Table
-# TIME TABLE_SLOT
-# DATE:18-03-2024
+## Ex03 Time Table
+## DATE:18-03-2024
 ## AIM
 To Write a html webpage page to display your timetable.
 
-# ALGORITHM
+## ALGORITHM
 ### STEP 1
 create a simple table using table tag
 ### STEP 2
@@ -14,7 +13,7 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+## CODE
 ```
 <!DOCTYPE html>
 <html>
@@ -117,7 +116,7 @@ Execute the program
 </html>
 ```
 
-# OUPUT
+## OUPUT
 ![Screenshot 2024-03-18 213803](https://github.com/ARAVIND23005370/slot/assets/148514836/6945d7f1-2c4c-4030-9c17-b66f95b88856)
 
 
@@ -126,12 +125,12 @@ Execute the program
 
 
 
-# OUPUT
+## OUPUT
 ![alt text](<Screenshot 2024-03-18 203017.png>)
 
 
 
-# Result :
+## Result :
 The code run successfully without any error.
 
 
